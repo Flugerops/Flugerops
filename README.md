@@ -1,16 +1,53 @@
+# Hi, I'm Bohdan 👋
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AIOHTTP](https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Flugerops&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Flugerops&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flugerops&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+I'm a 16-year-old developer from Ukraine, currently studying Information Technologies in Slovakia.
+I build things with Python — mostly bots, web apps, and whatever side project catches my attention this week.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Flugerops&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔧 What I work with
+
+**Languages & Frameworks**
+- Python — my main language (Django, FastAPI, Flask, aiohttp, aiogram)
+- SQL — PostgreSQL, a bit of MongoDB
+- HTML / CSS / Bootstrap — enough to make things look decent
+
+**Tools I use day to day**
+- Docker, Git, Poetry, Postman, uv
+- VS Code, Linux terminal
+
+---
+
+## 🚀 Projects I'm proud of
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Polyglot Telegram Bot](https://github.com/Flugerops/Telegram-Bot) | [My first Telegram Bot that helps people study different languages] | Python, aiogram |
+| [Finance Manager](https://github.com/Flugerops/Finance-Manager-X-Python-) | [Finance Manager to count your expenses] | Python, SQLAlchemy |
+| [Down to the Roots](https://github.com/Flugerops/Down-to-the-roots-pygame) | A 2D game built with pygame | Python, pygame |
+
+---
+
+## 📚 Currently learning
+
+- Linux, Cybersecurity essentials, AI Engineering
+- Information Technologies at Secondary School of Eletrical Engineering, Košice, Slovakia
+
+---
+
+## 🌍 A bit more about me
+
+- 🇺🇦 From Ukraine, living and studying in Slovakia
+- 16 years old and started coding 2 years ago, because I've always enjoyed creating my own things.
+- I like building real projects more than following tutorials
+
+---
+
+## 📬 Reach me
+
+- Email: b.savin.dev@gmail.com
+- LinkedIn: [Bohdan Savin](https://www.linkedin.com/in/bohdan-savin-7863953a3/)
+
+---
+
+*Open to collaboration, feedback, and interesting ideas.*
